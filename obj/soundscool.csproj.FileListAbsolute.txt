@@ -1,0 +1,23 @@
+C:\Documents and Settings\karl\My Documents\SharpDevelop Projects\soundscool\bin\Debug\soundscool.exe
+C:\Documents and Settings\karl\My Documents\SharpDevelop Projects\soundscool\bin\Debug\soundscool.pdb
+C:\Documents and Settings\karl\My Documents\SharpDevelop Projects\soundscool\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\karl\My Documents\SharpDevelop Projects\soundscool\obj\Debug\soundscool.MainForm.resources
+C:\Documents and Settings\karl\My Documents\SharpDevelop Projects\soundscool\obj\Debug\soundscool.csproj.GenerateResource.Cache
+C:\Documents and Settings\karl\My Documents\SharpDevelop Projects\soundscool\obj\Debug\soundscool.exe
+C:\Documents and Settings\karl\My Documents\SharpDevelop Projects\soundscool\obj\Debug\soundscool.pdb
+C:\Documents and Settings\karl\My Documents\SharpDevelop Projects\soundscool\obj\Debug\soundscool.FrmAbout.resources
+C:\Documents and Settings\karl\My Documents\SharpDevelop Projects\soundscool\obj\Debug\soundscool.FrmSetting.resources
+C:\Documents and Settings\karl\Desktop\soundscool\bin\Debug\soundscool.exe
+C:\Documents and Settings\karl\Desktop\soundscool\bin\Debug\soundscool.pdb
+C:\Documents and Settings\karl\Desktop\soundscool\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\karl\Desktop\soundscool\obj\Debug\soundscool.FrmAbout.resources
+C:\Documents and Settings\karl\Desktop\soundscool\obj\Debug\soundscool.FrmSetting.resources
+C:\Documents and Settings\karl\Desktop\soundscool\obj\Debug\soundscool.FrmTest.resources
+C:\Documents and Settings\karl\Desktop\soundscool\obj\Debug\soundscool.MainForm.resources
+C:\Documents and Settings\karl\Desktop\soundscool\obj\Debug\soundscool.csproj.GenerateResource.Cache
+C:\Documents and Settings\karl\Desktop\soundscool\obj\Debug\soundscool.exe
+C:\Documents and Settings\karl\Desktop\soundscool\obj\Debug\soundscool.pdb
+C:\Documents and Settings\karl\Desktop\soundscool\obj\Debug\soundscool.FrmFilterA.resources
+C:\Documents and Settings\karl\Desktop\soundscool\obj\Debug\soundscool.FrmFilterB.resources
+C:\Documents and Settings\karl\Desktop\soundscool\obj\Debug\soundscool.FrmEffect.resources
+C:\Documents and Settings\karl\Desktop\soundscool\obj\Debug\soundscool.FrmHelp.resources
